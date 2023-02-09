@@ -5,6 +5,7 @@ Web app allows you to register, log in, view the list of todos, add a new todo, 
 * MS SQL JDBC
 * JSTL
 * Log4j
+* JSP
 * CSS
 ## Usage
 1. Edit file src/main/resources/log4j2.xml
