@@ -1,5 +1,5 @@
 # ToDo List
-Web app allows you to register, log in, view the list of todos, add a new todo, delete or change a specific todo.
+Web app allows you to register, log in, view todo list, add, delete or change todo.
 ## Technologies Used
 * Servlet API
 * MS SQL JDBC
