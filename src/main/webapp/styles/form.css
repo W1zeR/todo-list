@@ -1,0 +1,46 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+}
+
+.flex-container, form {
+    display: flex;
+    flex-flow: column wrap;
+}
+
+.flex-container {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    justify-content: center;
+    align-items: center;
+}
+
+form {
+    row-gap: 10px;
+}
+
+input {
+    align-self: center;
+}
+
+.error, .msg {
+    padding: 15px;
+    border-radius: 4px;
+    margin-bottom: 20px;
+}
+
+.error {
+    color: #a94442;
+    background-color: #f2dede;
+    border: 1px solid #ebccd1;
+}
+
+.msg {
+    color: #31708f;
+    background-color: #d9edf7;
+    border: 1px solid #bce8f1;
+}
